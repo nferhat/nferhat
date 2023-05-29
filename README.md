@@ -4,10 +4,13 @@ I am Nadjib Ferhat, a 15 year old high-school student, and for probably two or t
 
 <!-- todo add my portfolio -->
 
-### What I'm interested into/learning
-- Playing around and ricing linux, running [Gentoo Linux](https://gentoo.org) on a Hewlett-Packard da0018nk.
-- Learning [Rust](https://rust-lang.org), and probably [Zig](https://ziglang.org) too.
+- Learning [Rust](https://rust-lang.org)
+- Probably learning [Zig](https://ziglang.org) too.
+
+### My current projects
+> Nothing, yet...
 
 ### What I've used before and stopped using
 - Javascript and [Typescript](https://typescriptlang.org)
-- Lua, but still use it sometimes for some scripts.
+- Nix, with [NixOS](https://nixos.org)
+- [Lua](https://lua.org), but still use it sometimes for some scripts.
