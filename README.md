@@ -4,11 +4,8 @@ I am Nadjib Ferhat, a 15 year old high-school student, and for probably two or t
 
 <!-- todo add my portfolio -->
 
-- Learning [Rust](https://rust-lang.org)
-- Probably learning [Zig](https://ziglang.org) too.
-
 ### My current projects
-> Nothing, yet...
+- Wayland compositor using [smithay](https://github.com/smithay/smithay) with custom wayland shell (currently wip+private)
 
 ### What I've used before and stopped using
 - Javascript and [Typescript](https://typescriptlang.org)
