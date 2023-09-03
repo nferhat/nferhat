@@ -1,6 +1,6 @@
 ## Hi there!
 
-I am Nadjib Ferhat, a 15 year old high-school student, and for probably two or three years more.
+I am Nadjib Ferhat, a 15 year old high-school student.
 
 <!-- todo add my portfolio -->
 
