@@ -1,6 +1,6 @@
 ## Hi there!
 
-I am Nadjib Ferhat, a 16 year old high-school student.
+I am Nadjib Ferhat, a 16 year old high-school student. Currently interested in Rust, Wayland and half-baked linux desktops
 
 <!-- todo add my portfolio -->
 
