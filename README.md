@@ -5,4 +5,4 @@ I am Nadjib Ferhat, a 16 year old high-school student. Currently interested in R
 <!-- todo add my portfolio -->
 
 ### My current projects
-- Wayland compositor using [smithay](https://github.com/smithay/smithay) with custom wayland shell (currently wip+private)
+- Wayland compositor using [smithay](https://github.com/smithay/smithay) with custom wayland shell
