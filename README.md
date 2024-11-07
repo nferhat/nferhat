@@ -1,6 +1,6 @@
 ## Hi there!
 
-I am Nadjib Ferhat, a 16 year old high-school student. Currently interested in Rust, Wayland and half-baked linux desktops
+I am Nadjib Ferhat, a 16 year old college student at University of Science and Technology Houari Boumediene. Currently interested in Rust, Wayland and half-baked linux desktops
 
 <!-- todo add my portfolio -->
 
