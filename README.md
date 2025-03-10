@@ -16,5 +16,9 @@ If I am not programming, I'll either be studying, or enjoy video games; notably 
 catch me on multiplayers with my friends playing Minecraft, or grinding Celeste mods.
 
 ### Contact
+
 - Discord: `nferhat`
+- Matrix: `nferhat:matrix.org`
 - E-mail: `nadjib.ferhat@etu.usthb.dz`
+
+If you are interested, here's my [resume](https://github.com/nferhat/resume/releases/download/2025.03.10/resume.pdf)
